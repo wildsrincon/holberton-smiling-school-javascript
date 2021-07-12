@@ -12,8 +12,8 @@ Here the final result:
 
 _Developed by_
 
-**Yoyman Castellar** :computer: :man: 
+**Wilder Rincon** :computer: :man: 
 
-- Github - [ymcastellar](https://github.com/ymcastellar)
-- Twitter - [@CastellarYoyman](https://twitter.com/CastellarYoyman)
-- LinkedIn - [yoyman-castellar](https://www.linkedin.com/in/yoyman-castellar/)
+- Github - [wildsrincon](https://github.com/wilsdrincon)
+- Twitter - [@wildsrincon](https://twitter.com/wildsrincon)
+- LinkedIn - [wildsrincon](https://www.linkedin.com/in/wildsrincon/)
